@@ -1,0 +1,8 @@
+---
+# Default Connectivity Variables
+ansible_user : 'jordan'
+ansible_ssh_pass : 'cisco'
+ansible_network_os: 'ios'
+ansible_connection: 'network_cli'
+
+# Global Config Variables
